@@ -1,0 +1,14 @@
+{
+    "name": "xry",
+    "description": "nd",
+    "logo":"xvbgf",
+    "keywords": ["ncdht"],
+    "env": {
+        "UUID": {
+            "description": "ran-UUID",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/neatcle800/neatcx",
+    "stack": "container"
+}
